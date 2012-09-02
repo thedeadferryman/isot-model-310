@@ -1,39 +1,41 @@
-ELKA55_KEYPAD                   otwieracz <gonet9@gmail.com>
+ELKA55_KEYPAD
 ============================================================
 
 ## Connector:
 
-	|___       _______________________|
-	   |_______|
+|___       _______________________|
+   |_______|
 
-	   1......11
+   1......11
 
-	|______________________        ___|
-			      |________|
+|______________________        ___|
+		      |________|
 
-			      A........K
+		      A........K
 
 
 ## Keyboard matrix:
 	
-	X: 8, B, E, F
-	Y: 7, 9, 10, 11, C, D, G, I
+X: 8, B, E, F
+Y: 7, 9, 10, 11, C, D, G, I
 
-	* | E  | F  | B  | 8  |
-	--+----+----+----+----+
-	7 | M≡ | #  | C  | M- |
-	9 | ÷  | 5  | R  | 4  |
-	10| M* | 00 | ±  | ,  |
-	11| %  | 7  | ⋄  | 6  |
-	C | IC | 1  | +  | 0  |
-	D | –  | 3  | ×  | 2  |
-	G | PF | 9  | M⋄ | 8  |
-	I |*/= | M+ | M± |    |
+* | E  | F  | B  | 8  |
+--+----+----+----+----+
+7 | M≡ | #  | C  | M- |
+9 | ÷  | 5  | R  | 4  |
+10| M* | 00 | ±  | ,  |
+11| %  | 7  | ⋄  | 6  |
+C | IC | 1  | +  | 0  |
+D | –  | 3  | ×  | 2  |
+G | PF | 9  | M⋄ | 8  |
+I |*/= | M+ | M± |    |
 
-	note:	M± should be M-PLUS SIGN ABOVE EQUALS SIGN
-		(M and U+2A72 [M-PLUS-EQUALS])
+note:	M± should be M-PLUS SIGN ABOVE EQUALS SIGN
+	(M and U+2A72 [M-PLUS-EQUALS])
+
 
 
 
 ## References:
-	[M-PLUS-EQUALS]: http://goo.gl/3PXQU
+
+[M-PLUS-EQUALS]: http://goo.gl/3PXQU
