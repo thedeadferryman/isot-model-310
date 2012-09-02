@@ -16,8 +16,8 @@
 
 ## Keyboard matrix:
 	
-*X*: 8, B, E, F  
-*Y*: 7, 9, 10, 11, C, D, G, I
+**X**: B, E, F, 8  
+**Y**: 7, 9, 10, 11, C, D, G, I
 
 	* | E  | F  | B  | 8  |
 	--+----+----+----+----+
@@ -35,10 +35,10 @@ note:	M± should be M-PLUS SIGN ABOVE EQUALS SIGN
 
 ## LEDs:
 
-*Pin2*. Power  
-*Pin4*. GND  
-*Pin5*. OVF  
-*Pin6*. M  
+**Pin2**. Power  
+**Pin4**. GND  
+**Pin5**. OVF  
+**Pin6**. M  
 
 
 
