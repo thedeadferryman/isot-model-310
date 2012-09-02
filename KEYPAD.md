@@ -16,8 +16,8 @@ ELKA55_KEYPAD
 
 ## Keyboard matrix:
 	
-X: 8, B, E, F  
-Y: 7, 9, 10, 11, C, D, G, I
+*X*: 8, B, E, F  
+*Y*: 7, 9, 10, 11, C, D, G, I
 
 	* | E  | F  | B  | 8  |
 	--+----+----+----+----+
