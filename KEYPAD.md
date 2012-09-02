@@ -33,6 +33,13 @@
 note:	M± should be M-PLUS SIGN ABOVE EQUALS SIGN
 	(M and U+2A72 [M-PLUS-EQUALS])
 
+## LEDs:
+
+2. Power
+4. GND
+5. OVF
+6. M
+
 
 
 [M-PLUS-EQUALS]: http://goo.gl/3PXQU
