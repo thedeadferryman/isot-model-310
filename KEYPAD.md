@@ -1,4 +1,4 @@
-# ELKA55_KEYPAD                                   `otwieracz <gonet9@gmail.com>`
+# ELKA55 - KEYPAD
 --------------------------------------------------------------------------------
 
 ## Connector:
@@ -35,5 +35,7 @@ note:	M± should be M-PLUS SIGN ABOVE EQUALS SIGN
 
 
 
+### author:
+otwieracz <gonet9@gmail.com
 
 [M-PLUS-EQUALS]: http://goo.gl/3PXQU
