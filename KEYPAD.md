@@ -11,7 +11,7 @@ ELKA55_KEYPAD
 	|______________________        ___|
 	                      |________|
 
-	                       A........K
+	                      A........K
 
 
 ## Keyboard matrix:
@@ -35,7 +35,5 @@ note:	M± should be M-PLUS SIGN ABOVE EQUALS SIGN
 
 
 
-
-## References:
 
 [M-PLUS-EQUALS]: http://goo.gl/3PXQU
