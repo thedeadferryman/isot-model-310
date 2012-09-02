@@ -2,8 +2,8 @@
 --------------------------------------------------------------------------------
 Printing element description.  
 
-This element requires *ink ribbon for typewriters (13mm)* 
-and *roll of paper (57mm)*
+This element requires *ink ribbon for typewriters (13mm)* and *roll of paper (57mm)*
+
 --------------------------------------------------------------------------------
 
 ## Character placement:
