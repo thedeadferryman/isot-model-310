@@ -35,10 +35,10 @@ note:	M± should be M-PLUS SIGN ABOVE EQUALS SIGN
 
 ## LEDs:
 
-*Pin2*. Power
-*Pin4*. GND
-*Pin5*. OVF
-*Pin6*. M
+*Pin2*. Power  
+*Pin4*. GND  
+*Pin5*. OVF  
+*Pin6*. M  
 
 
 
