@@ -73,7 +73,7 @@ Assume that we want to write „bcda”:
 18. NC
 19. MOTOR_POWER (+16V)
 20. NC
-21  NC
+21. NC
 22. BLOCK_2
 23. BLOCK_4
 24. BLOCK_6
